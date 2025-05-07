@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sou o João Fernando tenho 15 anos, sou um Programador Front-end, atualmente estou aprendendo e criando projetos com :
+Sou o João Fernando tenho 16 anos, sou um Programador Front-end, atualmente estou aprendendo e criando projetos com :
 <BR>
 <br>
 
